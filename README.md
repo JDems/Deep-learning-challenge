@@ -59,3 +59,9 @@ Compiling, Training, and Evaluating the Model
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 
 
+* For layering we started with 3 and went up with adding more hidden layers. Ending with 3 hidden layer, each changing the outcome of the results.
+* Neurons started with 6 went up to 30 and more increasing the params, each changing the outcome of the results.
+* The Activation Functions used were relu and sigmoid for outputs
+* Playing with some of the numbers I was not able to get 75% or higher
+
+  Summary: We analyzed the data using different methods and got numbers hovering around 73% most fo the time. When I wrote the starter code and saved it at the end it makes the H5Files, I would then save those 2 and do a new with new numbers and play around with that and saved it as the Optimized, and then again trying for 75%. I'm not sure I needed to load the H5Files. I used module 21 class activities and google/chatgpt for helping with syntax. Please let me know if there is anything I need to add. Thank you graders!
